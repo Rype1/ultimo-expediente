@@ -1,6 +1,7 @@
-### CRIANDO MINHA PRIMEIRA API
+### Ultimo expediente
 
-API ou Application Programing Interafe (Iterface de Programação de Aplicativos) é uma implementação que permite facilitar acesso a recursos de programação que auxiliam no desenvolvimento de aplicações.
+Integrantes do grupo: Carlos Godeiro, João Guilherme, Maria Luiza
+
 
 ## CRIANDO UMA API SIMPLES FAKE
 
