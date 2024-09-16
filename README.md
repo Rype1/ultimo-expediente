@@ -1,6 +1,6 @@
 ### Ultimo expediente
 
-Integrantes do grupo: Carlos Godeiro, João Guilherme, Maria Luiza
+Integrantes do grupo: Carlos Godeiro, João Guilherme, Maria Luiza, Marconi Junior
 
 
 ## CRIANDO UMA API SIMPLES FAKE
