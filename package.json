@@ -4,9 +4,7 @@
   "description": "API ou Application Programing Interafe (Iterface de Programação de Aplicativos) é uma implementação que permite facilitar acesso a recursos de programação que auxiliam no desenvolvimento de aplicações.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "json-server --watch db.json",
-    "rodar" : "json-server --watch db.json"
+    "start-vr": "http-server proj-vr"
   },
   "keywords": [],
   "author": "",
